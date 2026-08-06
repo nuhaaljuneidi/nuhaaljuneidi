@@ -38,6 +38,14 @@ flowchart TB
     style EDU fill:#E8F7F6,color:#102A43,stroke:#32B8AA,stroke-width:2px
 ```
 
+## Featured Research
+
+| Research area | Focus |
+|---|---|
+| **AI-Guided BTES Optimization** | Combining TRNSYS simulation, machine-learning surrogates, and Bayesian optimization to improve solar-assisted borehole thermal energy storage systems |
+| **PCM Thermal Energy Storage** | Numerical and experimental investigation of phase-change materials for efficient thermal storage and heat-transfer enhancement |
+| **Building Performance & HVAC** | Physics-based modeling of building energy systems, HVAC performance, renewable integration, and decarbonization strategies |
+
 ## Explore My Engineering Tools
 
 | | Tool | What it does |
@@ -55,5 +63,9 @@ flowchart TB
 ![Building Performance](https://img.shields.io/badge/Building%20Performance-0B6073?style=flat-square)
 ![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-00A6A6?style=flat-square)
 ![Optimization](https://img.shields.io/badge/Optimization-F2B134?style=flat-square)
+
+<br><br>
+
+![Profile views](https://komarev.com/ghpvc/?username=nuhaaljuneidi&label=Profile%20views&color=00A6A6&style=flat-square)
 
 </div>
