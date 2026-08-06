@@ -1,43 +1,59 @@
 <div align="center">
 
-# Dr. Nuha Aljuneidi
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:081F33,55:0B6073,100:00A6A6&text=Dr.%20Nuha%20Aljuneidi&fontColor=FFFFFF&fontSize=48&fontAlignY=38&desc=Thermal%20Sciences%20%E2%80%A2%20Building%20Energy%20Systems%20%E2%80%A2%20Artificial%20Intelligence&descAlignY=59&descSize=17" alt="Dr. Nuha Aljuneidi profile banner">
 
-### Thermal Sciences · Building Energy Systems · Artificial Intelligence
+### Researcher · Educator · Engineering Tool Builder
 
-Researcher and educator developing practical, interactive tools for engineering analysis and learning.
+I connect **physics-based simulation**, **thermal and building systems**, and **artificial intelligence** to create practical research and interactive engineering tools.
 
-<br>
-
-[![Google Scholar](https://img.shields.io/badge/Google_Scholar-View_Profile-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=3nOHb70AAAAJ&hl=en)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Research%20Profile-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=3nOHb70AAAAJ&hl=en)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0001--3119--9556-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0001-3119-9556)
 
 </div>
 
 ---
 
-## Research Focus
+## Research Network
 
-- Thermal energy storage and phase-change materials
-- Building energy performance and decarbonization
-- Heat transfer, HVAC, and renewable energy systems
-- AI-assisted simulation, surrogate modeling, and optimization
-- Interactive engineering education tools
+```mermaid
+flowchart TB
+    CORE["Thermal & Building<br/>Energy Systems"]
+    TES["Thermal Energy Storage<br/>PCM · BTES"]
+    BLDG["Building Performance<br/>HVAC · Renewables · Decarbonization"]
+    CFD["Modeling & CFD<br/>Heat Transfer · Simulation"]
+    AI["AI & Optimization<br/>ML · Surrogates · Bayesian Optimization"]
+    EDU["Engineering Education<br/>Interactive Tools · Visual Learning"]
 
-## Featured Engineering Tools
+    TES --- CORE
+    BLDG --- CORE
+    CORE --- CFD
+    CORE --- AI
+    CORE --- EDU
 
-| Tool | Description |
-|---|---|
-| [Indoor Pool Load Calculator](https://github.com/nuhaaljuneidi/indoor-pool-load-calculator) | Interactive calculator for pool evaporation and heating-load analysis |
-| [Architectural Engineering Energy Tool](https://github.com/nuhaaljuneidi/AE_bill) | Student-facing building energy and utility-cost calculator |
-| [Thermal Image Explorer](https://github.com/nuhaaljuneidi/Thermal-Image) | Interactive thermal-imaging analysis and visualization |
-| [Heat Transfer Interactive Tool](https://github.com/nuhaaljuneidi/ht_interactive_tool) | Visual learning tool for heat-transfer concepts |
+    style CORE fill:#0B6073,color:#fff,stroke:#00A6A6,stroke-width:4px
+    style TES fill:#E8F7F6,color:#102A43,stroke:#00A6A6,stroke-width:2px
+    style BLDG fill:#FFF5DB,color:#102A43,stroke:#F2B134,stroke-width:2px
+    style CFD fill:#EAF4FB,color:#102A43,stroke:#4EA8DE,stroke-width:2px
+    style AI fill:#FFF0EC,color:#102A43,stroke:#EF6F4E,stroke-width:2px
+    style EDU fill:#E8F7F6,color:#102A43,stroke:#32B8AA,stroke-width:2px
+```
 
-## Current Interests
+## Explore My Engineering Tools
 
-I am especially interested in connecting physics-based modeling with machine learning to make building and thermal-system analysis faster, clearer, and more useful for researchers, engineers, and students.
+| | Tool | What it does |
+|:---:|---|---|
+| 🌊 | **[Indoor Pool Load Calculator](https://nuhaaljuneidi.github.io/indoor-pool-load-calculator/)** | Estimates evaporation and heating loads for indoor pools |
+| 🏢 | **[Architectural Engineering Energy Tool](https://nuhaaljuneidi.github.io/AE_bill/)** | Explores building energy use and utility costs |
+| 🌡️ | **[Thermal Image Explorer](https://nuhaaljuneidi.github.io/Thermal-Image/)** | Supports interactive thermal-image analysis and visualization |
+| 🔥 | **[Heat Transfer Interactive Tool](https://nuhaaljuneidi.github.io/ht_interactive_tool/)** | Makes heat-transfer concepts visual and interactive |
 
 <div align="center">
 
-### Explore the repositories below to view the tools and projects.
+### From simulation to insight—and from insight to usable engineering tools.
+
+![Thermal Energy](https://img.shields.io/badge/Thermal%20Energy-081F33?style=flat-square)
+![Building Performance](https://img.shields.io/badge/Building%20Performance-0B6073?style=flat-square)
+![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-00A6A6?style=flat-square)
+![Optimization](https://img.shields.io/badge/Optimization-F2B134?style=flat-square)
 
 </div>
