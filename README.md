@@ -48,24 +48,15 @@ flowchart TB
 
 ## Explore My Engineering Tools
 
-| | Tool | What it does |
-|:---:|---|---|
-| 🌊 | **[Indoor Pool Load Calculator](https://nuhaaljuneidi.github.io/indoor-pool-load-calculator/)** | Estimates evaporation and heating loads for indoor pools |
-| 🏢 | **[Architectural Engineering Energy Tool](https://nuhaaljuneidi.github.io/AE_bill/)** | Explores building energy use and utility costs |
-| 🌡️ | **[Thermal Image Explorer](https://nuhaaljuneidi.github.io/Thermal-Image/)** | Supports interactive thermal-image analysis and visualization |
-| 🔥 | **[Heat Transfer Interactive Tool](https://nuhaaljuneidi.github.io/ht_interactive_tool/)** | Makes heat-transfer concepts visual and interactive |
+| Tool | What it does |
+|---|---|
+| **[Indoor Pool Load Calculator](https://nuhaaljuneidi.github.io/indoor-pool-load-calculator/)** | Estimates evaporation and heating loads for indoor pools |
+| **[Architectural Engineering Energy Tool](https://nuhaaljuneidi.github.io/AE_bill/)** | Explores building energy use and utility costs |
+| **[Thermal Image Explorer](https://nuhaaljuneidi.github.io/Thermal-Image/)** | Supports interactive thermal-image analysis and visualization |
+| **[Heat Transfer Interactive Tool](https://nuhaaljuneidi.github.io/ht_interactive_tool/)** | Makes heat-transfer concepts visual and interactive |
 
 <div align="center">
 
 ### From simulation to insight—and from insight to usable engineering tools.
-
-![Thermal Energy](https://img.shields.io/badge/Thermal%20Energy-081F33?style=flat-square)
-![Building Performance](https://img.shields.io/badge/Building%20Performance-0B6073?style=flat-square)
-![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-00A6A6?style=flat-square)
-![Optimization](https://img.shields.io/badge/Optimization-F2B134?style=flat-square)
-
-<br><br>
-
-![Profile views](https://komarev.com/ghpvc/?username=nuhaaljuneidi&label=Profile%20views&color=00A6A6&style=flat-square)
 
 </div>
