@@ -60,3 +60,9 @@ flowchart TB
 ### From simulation to insight—and from insight to usable engineering tools.
 
 </div>
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=nuhaaljuneidi&label=Profile%20Views&color=0B6073&style=flat)
+
+</div>
