@@ -4,11 +4,11 @@
 
 ### Researcher · Educator · Engineering Tool Builder
 
-[![Website](https://img.shields.io/badge/Website-Dr.%20Nuha%20Aljuneidi-0B6073?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sites.google.com/view/dr-nuha-aljuneidi)
 I connect **physics-based simulation**, **thermal and building systems**, and **artificial intelligence** to create practical research and interactive engineering tools.
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Research%20Profile-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AKCpqFxT1FORBcNGVBUEgSeUWgRu4UZlZJNj8ttVDC-uuXxTbX2wM--SHG0FeATg-_iWFw_lgMeYhcj3K75h_wC238lR&user=FkfGHlMAAAAJ)aljuneidi/)https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AKCpqFxT1FORBcNGVBUEgSeUWgRu4UZlZJNj8ttVDC-uuXxTbX2wM--SHG0FeATg-_iWFw_lgMeYhcj3K75h_wC238lR&user=FkfGHlMAAAAJ
 
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Research%20Profile-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)][![LinkedIn](https://img.shields.io/badge/LinkedIn-Nuha%20Aljuneidi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nuha-aljuneidi/)
+[![Website](https://img.shields.io/badge/Website-Dr.%20Nuha%20Aljuneidi-0B6073?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sites.google.com/view/dr-nuha-aljuneidi)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Research%20Profile-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=AKCpqFxT1FORBcNGVBUEgSeUWgRu4UZlZJNj8ttVDC-uuXxTbX2wM--SHG0FeATg-_iWFw_lgMeYhcj3K75h_wC238lR&user=FkfGHlMAAAAJ)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nuha%20Aljuneidi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nuha-aljuneidi/)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0001--3119--9556-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0001-3119-9556)
 
 </div>
