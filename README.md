@@ -48,6 +48,15 @@ flowchart TB
 | **PCM Thermal Energy Storage** | Numerical and experimental investigation of phase-change materials for efficient thermal storage and heat-transfer enhancement |
 | **Building Performance & HVAC** | Physics-based modeling of building energy systems, HVAC performance, renewable integration, and decarbonization strategies |
 
+## Teaching & Open Courseware
+
+| Course | Focus |
+|---|---|
+| **[Python for Mechanical Engineers](https://github.com/nuhaaljuneidi/python-for-mechanical-engineers)** | Six project-based Colab sessions covering engineering calculations, data analysis, visualization, machine learning, simulation, and optimization |
+| **[Post-CFD Analysis with Python](https://github.com/nuhaaljuneidi/post-cfd-analysis-with-python)** | Six application-driven sessions for validating, automating, interpreting, and communicating CFD results |
+
+Both courses run in Google Colab and are designed for students, researchers, and practicing engineers.
+
 ## Explore My Engineering Tools
 
 | Tool | What it does |
