@@ -6,7 +6,7 @@
 
 **Assistant Professor · Embry-Riddle Aeronautical University**
 
-I connect **physics-based simulation**, **thermal and building systems**, and **artificial intelligence** to create practical research and interactive engineering tools.
+I connect **physics-based simulations**, **thermal and building systems**, and **artificial intelligence** to create practical research and interactive engineering tools.
 
 [![Website](https://img.shields.io/badge/Website-Dr.%20Nuha%20Aljuneidi-03539E?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sites.google.com/view/dr-nuha-aljuneidi)
 [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Research%20Profile-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=FkfGHlMAAAAJ&hl=en)
